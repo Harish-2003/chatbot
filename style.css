@@ -5,8 +5,9 @@
     box-sizing: border-box;
     font-family: "Poppins",sans-serif;
  }
-body{
-    background:rgb(189, 189, 221);
+body {
+    background: url('images/chatbot.png') no-repeat center center fixed;
+    background-size: cover;
 }
 .chatbot-toggler{
     position:fixed;
